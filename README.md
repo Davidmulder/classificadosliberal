@@ -14,7 +14,7 @@ Mercadão  liberal
   </a>
 </p>
 
-<div>
+<div align="center">
   <img src="img/tela_imoveis.png" alt="area de imoveis" align="center" height="425">
   <img src="img/tela_cadastro.png" alt="tele de cadastro" align="center" height="425"><br>
 <img src="img/tela_imoveis_mobile.png" alt="telemobile" align="center" width="300" >
